@@ -151,10 +151,3 @@ The objective of CodeMate AI is to make programming more accessible by combining
 - Rotate any API key that has been exposed.
 - Avoid committing credentials to Git history.
 
-## 👩‍💻 Author
-
-**GitHub:** [brubasree007](https://github.com/brubasree007)
-
-## 📄 License
-
-No license has been specified yet. Add an appropriate open-source license if you intend to allow others to use, modify, and distribute this project.
