@@ -35,7 +35,7 @@ With support for Python, C, C++, and Java, CodeMate AI aims to make programming 
 4. **Generate a response:** The AI model produces a programming-focused answer.
 5. **Stream the output:** The response is displayed progressively in the terminal.
 6. **Continue learning:** Ask follow-up questions without losing the current conversation context.
-7. **Exit anytime:** Type `exit` or `quit` to end the session.
+7. **Exit anytime:** Type `exit`  to end the session.
 
 ## 🚀 Getting Started
 
